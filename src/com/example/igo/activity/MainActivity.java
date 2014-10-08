@@ -1,4 +1,7 @@
-package com.example.igo;
+package com.example.igo.activity;
+
+import com.example.igo.R;
+import com.example.igo.R.layout;
 
 import android.app.Activity;
 import android.os.Bundle;
